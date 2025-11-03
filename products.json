@@ -1,14 +1,45 @@
 [
-  {
-    "name": "Black Hoodie",
-    "price": 899,
-    "description": "Premium cotton comfort fit",
-    "image": "images/hoodie.jpg"
-  },
-  {
-    "name": "Men's Leather Wallet",
-    "price": 499,
-    "description": "Genuine leather wallet",
-    "image": "images/wallet.jpg"
-  }
+  { "name": "Classic Black Hoodie", "price": 1599, "description": "Soft brushed fleece with a premium finish.", "image": "images/item1.jpg" },
+  { "name": "Stone Grey Essential Hoodie", "price": 1699, "description": "Minimalist everyday hoodie in neutral tones.", "image": "images/item2.jpg" },
+  { "name": "Midnight Navy Hoodie", "price": 1799, "description": "Comfort-fit design with subtle texture.", "image": "images/item3.jpg" },
+  { "name": "Olive Heritage Hoodie", "price": 1899, "description": "Relaxed fit with refined detail work.", "image": "images/item4.jpg" },
+  { "name": "Earth Brown Fleece Hoodie", "price": 1499, "description": "Warm, soft-touch fleece blend.", "image": "images/item5.jpg" },
+  { "name": "Minimal Cream Hoodie", "price": 1999, "description": "Understated luxury in a clean profile.", "image": "images/item6.jpg" },
+  { "name": "Jet Black Oversize Hoodie", "price": 1899, "description": "Contemporary oversized silhouette.", "image": "images/item7.jpg" },
+  { "name": "Ash Grey Layer Hoodie", "price": 1699, "description": "Lightweight layering piece.", "image": "images/item8.jpg" },
+  { "name": "Charcoal Pullover Hoodie", "price": 1799, "description": "Simple, tailored aesthetic.", "image": "images/item9.jpg" },
+  { "name": "Sand Beige Hoodie", "price": 1899, "description": "Neutral tone with luxury feel.", "image": "images/item10.jpg" },
+
+  { "name": "Premium Slim Fit Jeans", "price": 2299, "description": "Stretch denim with refined taper.", "image": "images/item11.jpg" },
+  { "name": "Indigo Classic Denim", "price": 1999, "description": "Timeless wash with minimal fade.", "image": "images/item12.jpg" },
+  { "name": "Stonewash Vintage Jeans", "price": 2399, "description": "Subtle vintage-inspired tone.", "image": "images/item13.jpg" },
+  { "name": "Charcoal Tapered Jeans", "price": 2499, "description": "Modern, narrow ankle finish.", "image": "images/item14.jpg" },
+  { "name": "Deep Blue Straight Fit Jeans", "price": 2199, "description": "Classic straight leg cut.", "image": "images/item15.jpg" },
+  { "name": "Black Denim Luxe Fit", "price": 2599, "description": "Refined denim with matte finish.", "image": "images/item16.jpg" },
+  { "name": "Lightwash Everyday Jeans", "price": 2099, "description": "Soft washed denim feel.", "image": "images/item17.jpg" },
+  { "name": "Mid-Blue Tailored Jeans", "price": 2399, "description": "Balanced cut for versatility.", "image": "images/item18.jpg" },
+  { "name": "Sand Tint Denim Jeans", "price": 2299, "description": "Unique neutral color tone.", "image": "images/item19.jpg" },
+  { "name": "Off-Black Tinted Jeans", "price": 2699, "description": "Sleek, subdued tone.", "image": "images/item20.jpg" },
+
+  { "name": "Minimal Black Wristwatch", "price": 2999, "description": "Matte black dial with clean markers.", "image": "images/item21.jpg" },
+  { "name": "Steel Link Classic Watch", "price": 3499, "description": "Polished steel strap with slim dial.", "image": "images/item22.jpg" },
+  { "name": "Gold Accent Dress Watch", "price": 3999, "description": "Luxury pairing of gold and black.", "image": "images/item23.jpg" },
+  { "name": "Tan Leather Strap Watch", "price": 2799, "description": "Warm leather tone, timeless style.", "image": "images/item24.jpg" },
+  { "name": "Silver Minimal Dial Watch", "price": 3199, "description": "Clean and elegant timepiece.", "image": "images/item25.jpg" },
+  { "name": "Deep Navy Dial Watch", "price": 2899, "description": "Premium smooth finish dial.", "image": "images/item26.jpg" },
+  { "name": "Black Mesh Band Watch", "price": 3299, "description": "Lightweight stainless mesh.", "image": "images/item27.jpg" },
+  { "name": "Dual Tone Modern Watch", "price": 3699, "description": "Refined contrast metal links.", "image": "images/item28.jpg" },
+  { "name": "Skeleton Face Mechanical Watch", "price": 3999, "description": "Open gear display movement.", "image": "images/item29.jpg" },
+  { "name": "Classic White Dial Watch", "price": 2599, "description": "Bright dial with slim case.", "image": "images/item30.jpg" },
+
+  { "name": "Minimal Silver Chain", "price": 799, "description": "Polished finish subtle chain.", "image": "images/item31.jpg" },
+  { "name": "Rope Style Chain", "price": 999, "description": "Braided design with refined shine.", "image": "images/item32.jpg" },
+  { "name": "Gold-Tone Simple Chain", "price": 1299, "description": "Warm tone luxury appeal.", "image": "images/item33.jpg" },
+  { "name": "Box Chain Steel Finish", "price": 1099, "description": "Square link structure.", "image": "images/item34.jpg" },
+  { "name": "Black Matte Chain", "price": 999, "description": "Stealth finish modern look.", "image": "images/item35.jpg" },
+  { "name": "Diamond Cut Shine Chain", "price": 1399, "description": "Reflective beveled edges.", "image": "images/item36.jpg" },
+  { "name": "Dual-Tone Accent Chain", "price": 1499, "description": "Contrasting metal tones.", "image": "images/item37.jpg" },
+  { "name": "Heavy Link Chain", "price": 1599, "description": "Bold presence, statement piece.", "image": "images/item38.jpg" },
+  { "name": "Flat Polished Chain", "price": 1199, "description": "Smooth surface refined style.", "image": "images/item39.jpg" },
+  { "name": "Subtle Everyday Chain", "price": 799, "description": "Lightweight casual wear.", "image": "images/item40.jpg" }
 ]
